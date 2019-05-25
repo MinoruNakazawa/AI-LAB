@@ -1,5 +1,9 @@
-## Welcome to GitHub Pages
+## ようこそ、金沢工業大学 AI Labへ
 
+2018年4月1日より、金沢工業大学チャレンジラボ2Fにおいて設立されました。
+
+### 研究設置目的
+ 2018年、「AI」が我々の生活
 You can use the [editor on GitHub](https://github.com/MinoruNakazawa/AI-LAB/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
