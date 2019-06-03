@@ -54,7 +54,7 @@
 第８条　会員は、本プログラムの会員として知り得た情報を第三者に公表してはならない。
 
 ----
-### 様式
+### 様式 (Documents)
 
 - [様式1:AIラボ メンバーシップ・プログラム会員登録申込書](/document/document1_register.doc)
 - [様式2:AIラボ メンバーシップ・プログラム会員登録変更届](document/document2_change.doc)
