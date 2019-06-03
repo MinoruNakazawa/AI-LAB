@@ -56,6 +56,12 @@
 ----
 ### 様式 (Documents)
 
-- [様式1:AIラボ メンバーシップ・プログラム会員登録申込書](/document/document1_register.doc)
-- [様式2:AIラボ メンバーシップ・プログラム会員登録変更届](document/document2_change.doc)
-- [様式3:AIラボ メンバーシップ・プログラム退会届](document/document3_resign.doc)
+- [様式1: 会員登録申込書](/document/document1_register.doc)
+- [様式2: 会員登録変更届](document/document2_change.doc)
+- [様式3: 退会届](document/document3_resign.doc)
+
+### 連絡先・申込先(Contact)
+- 宛先：金沢工業大学AIラボ (チャレンジラボ内)
+- 住所：〒921-8501 石川県野々市市扇が丘 7-1
+- [連絡先：minoru.nakazawa.jp@ieee.org](email:minoru.nakazawa.jp@ieee.org)
+- 電話番号： 076-248-9418
