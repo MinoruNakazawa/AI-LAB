@@ -36,7 +36,7 @@
   - 本学が主催する講演会等のご案内サービス
 
 #### （会員登録）
-第4条　第2条の趣旨に賛同して「AIラボ メンバーシップ・プログラム会員登録申込書」（様式１）を本学に提出した企業のうち、本学が審査し入会を承諾した企業を、本プログラムの会員として登録する。
+第4条　第2条の趣旨に賛同して [「AIラボ メンバーシップ・プログラム会員登録申込書」（様式１）](document/document1_register.doc)を本学に提出した企業のうち、本学が審査し入会を承諾した企業を、本プログラムの会員として登録する。
 
 #### （会費）
 第５条　
@@ -54,33 +54,8 @@
 第８条　会員は、本プログラムの会員として知り得た情報を第三者に公表してはならない。
 
 ----
+### 様式
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MinoruNakazawa/AI-LAB/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [様式1:AIラボ メンバーシップ・プログラム会員登録申込書](/document/document1_register.doc)
+- [様式2:AIラボ メンバーシップ・プログラム会員登録変更届](document/document2_change.doc)
+- [様式3:AIラボ メンバーシップ・プログラム退会届](document/document3_resign.doc)
