@@ -63,5 +63,5 @@
 ### 連絡先・申込先(Contact)
 - 宛先：金沢工業大学AIラボ (チャレンジラボ内)
 - 住所：〒921-8501 石川県野々市市扇が丘 7-1
-- 連絡先：[minoru.nakazawa.jp@ieee.org](mailto:minoru.nakazawa.jp@ieee.org)
+- 連絡先：[中沢実 minoru.nakazawa.jp@ieee.org](mailto:minoru.nakazawa.jp@ieee.org)
 - 電話番号： 076-248-9418
